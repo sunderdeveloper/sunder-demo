@@ -1,4 +1,4 @@
 # sunder-demo
 This is my first Git Repository
 <br>
-Author - Sunder Neknar
+Author - Sunder Neknar (neknar)
